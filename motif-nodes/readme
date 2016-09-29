@@ -1,0 +1,11 @@
+First to obtain output results using 'tests.py' run 'run_output' (i.e. in terminal 'bash run_output').
+
+Second to get the frequencies of output in a format that is useable run 'run_frequencies' which will use 'frequencies.R' (i.e. in terminal 'bash run_frequencies')
+
+Now you can use 'compile.py' to take all frequencies and put it into one file, skipping the header.
+
+
+Now 'idweights.py' can be used to calculate the total frequency of each motif used. 
+
+
+'contour_plot.R' can be used to create a contour plot using file with data in matrix format. 

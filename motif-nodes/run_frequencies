@@ -1,0 +1,3 @@
+for file in Alyssa/output/*.out; 
+	do Rscript frequencies.R $file
+done

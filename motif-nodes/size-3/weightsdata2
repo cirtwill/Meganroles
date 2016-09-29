@@ -1,0 +1,5 @@
+id frequency
+2 21
+6 12
+
+barplot(frequency,names.arg=id,xlab='two species motif ID',ylab="frequency")

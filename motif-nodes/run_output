@@ -1,0 +1,5 @@
+for file in ../../rolesbywebtype/ParsedWebs/unipartite/*.web; do
+	echo $file
+	outfile=`echo $file |sed 's/unipartite/Moutput/'`;
+	python tests.py $file > $outfile;
+done

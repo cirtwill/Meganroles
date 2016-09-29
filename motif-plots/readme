@@ -1,0 +1,6 @@
+Use 'tests.py' to create ouptput.
+
+Then use 'graph_code.R' or 'barplot_code.R' to create graphs.
+
+
+Network I used is 'test.net', additional networks to be used in 'networks' folder.

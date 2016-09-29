@@ -1,0 +1,1 @@
+When given network interactions as a large list with i.ds in the file (i.e 'size-2-motifs.txt' use 'splitting.py' to slipt each motif into a seperate file with id as the file name.
